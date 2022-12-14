@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+section {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  background-color: #141417;
+  color: white;
+  font-size: large;
+}
+
+.hidden {
+  color: red;
+}
+
+.show {
+  color: green;
+}
